@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": "file:///home/mihsam/Documents/courses/otus_patterns/otus_patterns_hw1/.github/workflows/build.yaml"
-    }
-}
